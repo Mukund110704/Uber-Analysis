@@ -6,13 +6,12 @@
 
 This project analyzes Uber ride bookings in Delhi for the month of June 2025 using structured SQL queries and dynamic Power BI visualizations. It focuses on demand trends, revenue performance, customer satisfaction, and operational bottlenecks.
 
----
+
 
 ## Overview
 
 A dataset of 70,000 bookings was used to simulate realistic ride patterns across vehicle types, payment methods, time of day, and booking outcomes. SQL was used to extract business-critical insights, and Power BI was used to build an interactive dashboard for executive-level reporting.
 
----
 
 ## Objectives
 
@@ -23,7 +22,6 @@ A dataset of 70,000 bookings was used to simulate realistic ride patterns across
 - Evaluate payment preferences and revenue distribution  
 - Highlight top-performing customers and profitable routes  
 
----
 
 ## Key Highlights
 
@@ -39,7 +37,6 @@ A dataset of 70,000 bookings was used to simulate realistic ride patterns across
 - Most common driver-side cancellation: Personal & Car related issues  
 - Most common customer-side cancellation: Driver asked to cancel  
 
----
 
 ## Tech Stack
 
@@ -47,7 +44,6 @@ A dataset of 70,000 bookings was used to simulate realistic ride patterns across
 - Power BI Desktop  
 - GitHub for version control and project documentation  
 
----
 
 ## Power BI Dashboard Summary
 
@@ -65,7 +61,6 @@ Provided insight into how customers of different vehicle categories prefer to pa
 ### 4. Customer vs Driver Ratings  
 Enabled a direct comparison of service quality perception and actual delivery across ride types.
 
----
 
 ## SQL Query Summary
 
