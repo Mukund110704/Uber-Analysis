@@ -74,12 +74,4 @@ A total of 15 SQL queries were written to generate KPIs and breakdowns for analy
 - Pickup-drop route analysis for revenue concentration
 - Time-based slot analysis for VTAT and CTAT performance
 
-Example:
 
-```sql
--- Get the count and percentage of each booking status
-SELECT booking_status,
-       COUNT(*) AS status_count,
-       ROUND(100.0 * COUNT(*) / (SELECT COUNT(*) FROM bookings), 2) AS percentage
-FROM bookings
-GROUP BY booking_status;
