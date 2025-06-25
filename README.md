@@ -10,7 +10,7 @@ This project analyzes Uber ride bookings in Delhi for the month of June 2025 usi
 
 ## Overview
 
-A dataset of 70,000 bookings was used to simulate realistic ride patterns across vehicle types, payment methods, time of day, and booking outcomes. SQL was used to extract business-critical insights, and Power BI was used to build an interactive dashboard for executive-level reporting.
+A dataset of 50,000+ bookings was used to simulate realistic ride patterns across vehicle types, payment methods, time of day, and booking outcomes. SQL was used to extract business-critical insights, and Power BI was used to build an interactive dashboard for executive-level reporting.
 
 
 ## Objectives
