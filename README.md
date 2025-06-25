@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png" alt="Uber Logo" width="200"/>
+  <img src="https://marketing.dcassetcdn.com/blog/2018/September/Uber-Wordmark/DI_Uber-Wordmark_Banner_828x300.jpg" alt="Uber Logo" width="400"/>
 </p>
 
 # Uber Booking Data Analysis (SQL + Power BI)
